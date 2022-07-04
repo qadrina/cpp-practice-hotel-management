@@ -1,2 +1,4 @@
 # cpp-practice-hotel-management
-Hotel management practice using C++.
+A simple hotel management practice using C++.
+
+IDE used: Dev-C++
